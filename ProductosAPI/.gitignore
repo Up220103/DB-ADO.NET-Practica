@@ -1,0 +1,5 @@
+# Archivos que se generan al compilar (.NET) - no se suben a Git
+bin/
+obj/
+.vs/
+*.user
